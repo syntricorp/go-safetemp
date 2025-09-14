@@ -1,5 +1,5 @@
 # go-safetemp
-[![Godoc](https://godoc.org/github.com/syntricorp/go-safetemp?status.svg)](https://godoc.org/github.com/syntricorp/go-safetemp)
+[![Godoc](https://godoc.org/github.com/syntricorp/go-safetemp?status.svg)](https://godoc.org/github.com/syntriicorp/go-safetemp)
 
 Functions for safely working with temporary directories and files.
 
